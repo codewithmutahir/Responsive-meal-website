@@ -1,3 +1,4 @@
 # Responsive-meal-website
 Complete responsive meal website
-Using just HTML&CSS ![screenshot](![screenshot](https://user-images.githubusercontent.com/98873042/213912184-004c0561-7436-4e53-a270-534eb6a3ec12.png)
+Using just HTML&CSS
+![Screenshot 2023-01-22 161148](https://user-images.githubusercontent.com/98873042/213912834-a056953a-a5ab-4658-9229-72db0cc4ea5c.png)
